@@ -21,6 +21,7 @@ public class CommonApplicationTests {
         for (Admin admin : admins) {
             System.out.println(admin);
             System.out.println("123");
+            System.out.println("789");
         }
     }
 
